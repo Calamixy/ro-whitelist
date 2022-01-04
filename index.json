@@ -1,0 +1,20 @@
+{
+  "USERS": [
+              "calamixy",
+              "test123"
+           ],
+
+  "GROUPS": [
+              "8928365",
+              "5917063"
+            ],
+
+  "BLACKLIST": [
+                    "USERS": {
+                                "lol"
+                             },
+                   "GROUPS": {
+                                "none_for_now"
+                             }
+               ]
+}
